@@ -2,7 +2,7 @@
 # How to host your modmail bot on Google Cloud Platform for free
 
 Want to host your modmail bot for free? Don’t want to be ridiculed for using Heroku? This guide will take you through how to get the bot running on Google Cloud.
-**DISCLAIMER: I am not responsible for any changes that you face due to you digressing from the guide.**
+**DISCLAIMER: I am not responsible for any charges that you face due to you digressing from the guide.**
 
 Due to the multiple services/applications that we are using, this guide may be outdated. If this is the case then please let me know here or in the discord server.
 I am aware that there are a few alternative methods to this. If you know what you are doing, then by all means use part of this guide and your own method. Just note that if you do this, I can’t really provide support as your method may be the reason it is not working.
@@ -197,7 +197,7 @@ If it all works, then it should look like this:
 
 3)	If it was successful then you should see the folder on the other side. ![image](https://mesub.is-ne.at/w6L4HW.png)
 
-##Step nine: Inviting the bot to the server
+## Step nine: Inviting the bot to the server
 Now it is time to get the bot in your servers!
 
 1)	Go back to the discord developer page that you should have left open.
@@ -213,7 +213,7 @@ Now it is time to get the bot in your servers!
 
 6)	Add the bot to your sever(s).
 
-##Step ten: Running the bot
+## Step ten: Running the bot
 Now that we’ve set everything up, we should be able to start the bot!
 
 1)	Navigate to the bot’s dictionary (you should know your way around navigation commands in linux)
